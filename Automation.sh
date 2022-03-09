@@ -1,5 +1,5 @@
-#!/bin/bash
 
+#!/bin/bash
 name=jithendra
 timestamp=$(date '+%d%m%Y-%H%M%S')
 echo $timestamp
